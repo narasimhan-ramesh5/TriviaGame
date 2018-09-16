@@ -1,0 +1,23 @@
+
+.trivia-header{
+  background-color:#4169E1;
+  color:white;
+}
+
+.trivia-header h1{
+  text-align:center;
+}
+
+.trivia-zone{
+  margin-top:20px;
+  border-color:orange;
+  border-width:10px;
+}
+
+.scorecard-zone{
+  margin-top:20px;
+}
+
+.btn-primary:disabled{
+  background-color:gray;
+}
